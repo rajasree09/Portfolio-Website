@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>Porfolio-Website</title>
+<title>Portfolio-Website</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -17,9 +17,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
     <a href="#" onclick="w3_close()" class="w3-hide-large w3-right w3-jumbo w3-padding w3-hover-grey" title="close menu">
       <i class="fa fa-remove"></i>
     </a>
-    <img src="w3images/avatar_g2.jpg" style="width:45%;" class="w3-round"><br><br>
-    <h4><b>PORTFOLIO</b></h4>
-    <p class="w3-text-grey">Template by W3.CSS</p>
+    <img src="https://www.w3schools.com/w3images/profile_girl.jpg" style="width:45%;" class="w3-round"><br><br>
+    <h4><b>RAJASREE</b></h4>
+    <p class="w3-text-grey">FRONT-END DEVELOPER</p>
   </div>
   <div class="w3-bar-block">
     <a href="#portfolio" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-text-teal"><i class="fa fa-th-large fa-fw w3-margin-right"></i>PORTFOLIO</a> 
@@ -44,7 +44,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
 
   <!-- Header -->
   <header id="portfolio">
-    <a href="#"><img src="/w3images/avatar_g2.jpg" style="width:65px;" class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
+    <a href="#"><img src="" style="width:65px;" class="w3-circle w3-right w3-margin w3-hide-large w3-hover-opacity"></a>
     <span class="w3-button w3-hide-large w3-xxlarge w3-hover-text-grey" onclick="w3_open()"><i class="fa fa-bars"></i></span>
     <div class="w3-container">
     <h1><b>My Portfolio</b></h1>
@@ -61,21 +61,21 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
   <!-- First Photo Grid-->
   <div class="w3-row-padding">
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src="w3images/mountains.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+      <img src="https://www.w3schools.com/w3images/lights.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>Lorem Ipsum</b></p>
         <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
       </div>
     </div>
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src="w3images/lights.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+      <img src="https://www.w3schools.com/w3images/mountains.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>Lorem Ipsum</b></p>
         <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
       </div>
     </div>
     <div class="w3-third w3-container">
-      <img src="w3images/nature.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+      <img src="https://www.w3schools.com/w3images/nature.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>Lorem Ipsum</b></p>
         <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
@@ -86,21 +86,21 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
   <!-- Second Photo Grid-->
   <div class="w3-row-padding">
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src="/w3images/p1.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+      <img src="https://www.w3schools.com/w3images/p1.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>Lorem Ipsum</b></p>
         <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
       </div>
     </div>
     <div class="w3-third w3-container w3-margin-bottom">
-      <img src="/w3images/p2.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+      <img src="https://www.w3schools.com/w3images/p2.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>Lorem Ipsum</b></p>
         <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
       </div>
     </div>
     <div class="w3-third w3-container">
-      <img src="/w3images/p3.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
+      <img src="https://www.w3schools.com/w3images/p3.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
       <div class="w3-container w3-white">
         <p><b>Lorem Ipsum</b></p>
         <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
@@ -123,10 +123,10 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
   <!-- Images of Me -->
   <div class="w3-row-padding w3-padding-16" id="about">
     <div class="w3-col m6">
-      <img src="/w3images/avatar_g.jpg" alt="Me" style="width:100%">
+      <img src="https://www.w3schools.com/w3images/avatar_g.jpg" alt="Me" style="width:100%">
     </div>
     <div class="w3-col m6">
-      <img src="/w3images/me2.jpg" alt="Me" style="width:100%">
+      <img src="https://www.w3schools.com/w3images/me2.jpg" alt="Me" style="width:100%">
     </div>
   </div>
 
@@ -253,19 +253,19 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
     <div class="w3-third">
       <h3>FOOTER</h3>
       <p>Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.</p>
-      <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+      
     </div>
   
     <div class="w3-third">
       <h3>BLOG POSTS</h3>
       <ul class="w3-ul w3-hoverable">
         <li class="w3-padding-16">
-          <img src="/w3images/workshop.jpg" class="w3-left w3-margin-right" style="width:50px">
+          <img src="https://www.w3schools.com/w3images/workshop.jpg" class="w3-left w3-margin-right" style="width:50px">
           <span class="w3-large">Lorem</span><br>
           <span>Sed mattis nunc</span>
         </li>
         <li class="w3-padding-16">
-          <img src="/w3images/gondol.jpg" class="w3-left w3-margin-right" style="width:50px">
+          <img src="https://www.w3schools.com/w3images/gondol.jpg" class="w3-left w3-margin-right" style="width:50px">
           <span class="w3-large">Ipsum</span><br>
           <span>Praes tinci sed</span>
         </li> 
@@ -286,7 +286,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
   </div>
   </footer>
   
-  <div class="w3-black w3-center w3-padding-24">Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-opacity">w3.css</a></div>
+  
 
 <!-- End page content -->
 </div>
